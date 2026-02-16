@@ -1,0 +1,36 @@
+---
+title: "Noé González Ibáñez"
+image: "imagenPerfil.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/no%C3%A9-gonz%C3%A1lez-ib%C3%A1%C3%B1ez-06aa44208/"
+  #- label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+ #  url: "https://twitter.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/noeglz068-dot"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:noe.gonzalez@encit.unam.mx"
+  #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+ #   url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+output:
+  postcards::onofre
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I am interested in environmental science
+
+#### **Education**
+
+high school at Cecyt 4 Lazaro Cardenas, currently pursuing a degree in earth sciences
+
+#### **Experience**
+
+none experience
